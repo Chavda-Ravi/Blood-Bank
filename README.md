@@ -158,20 +158,7 @@ Authentication is required before accessing protected endpoints.
 
 ---
 
-## 📸 Screenshots
 
-You can add screenshots here.
-
-Example:
-
-```
-screenshots/
-    login.png
-    donors.png
-    hospitals.png
-```
-
----
 
 ## 📈 Future Improvements
 
@@ -209,8 +196,7 @@ Through this project, I learned:
 GitHub:
 https://github.com/Chavda-Ravi
 
-LinkedIn:
-(Add your LinkedIn profile)
+
 
 ---
 
